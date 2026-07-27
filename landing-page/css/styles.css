@@ -8,6 +8,7 @@
 }
 
 body { 
+    font-family: Roboto, apple-system, system-ui, sans-serif;
     max-width: 1200px;
     margin: auto;
 }
@@ -106,6 +107,3 @@ h2 {
     border-radius: 10px;
 }
 
-body {
-    font-family: Roboto, apple-system, system-ui, sans-serif;
-}

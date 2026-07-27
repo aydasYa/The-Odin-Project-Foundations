@@ -70,7 +70,41 @@ ul {
 }
 
 
+.random-information {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-inline: auto;
+    padding-bottom: 50px;
+}
 
+h2 {
+    text-align: center;
+    margin-block: 25px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 80%;
+    gap: 50px;
+}
+
+.flex-item {
+    height: auto;
+    width: 100px;
+    text-align: center;
+    color: #6E747D;
+}
+
+.flex-container div div {
+    height: 100px;
+    border: solid #3B82F6 3px;
+    border-radius: 10px;
+}
 
 body {
     font-family: Roboto, apple-system, system-ui, sans-serif;

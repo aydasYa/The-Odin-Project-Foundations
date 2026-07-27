@@ -7,6 +7,11 @@
     text-decoration: none;
 }
 
+body { 
+    max-width: 1200px;
+    margin: auto;
+}
+
 .header-logo { 
     color:white; 
     font-weight: bold;
